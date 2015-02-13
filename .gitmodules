@@ -1,0 +1,24 @@
+[submodule "sagn-server"]
+	path = sagn-server
+	url = https://github.com/SANetworks/sagn-server.git
+[submodule "sagn-admin"]
+	path = sagn-admin
+	url = https://github.com/SANetworks/sagn-admin.git
+[submodule "sagn-client"]
+	path = sagn-client
+	url = https://github.com/SANetworks/sagn-client.git
+[submodule "sagn-ldb"]
+	path = sagn-ldb
+	url = https://github.com/SANetworks/sagn-ldb.git
+[submodule "sagn-ach"]
+	path = sagn-ach
+	url = https://github.com/SANetworks/sagn-ach.git
+[submodule "sagn-bdg"]
+	path = sagn-bdg
+	url = https://github.com/SANetworks/sagn-bdg.git
+[submodule "sagn-cs"]
+	path = sagn-cs
+	url = https://github.com/SANetworks/sagn-cs.git
+[submodule "sagn-chl"]
+	path = sagn-chl
+	url = https://github.com/SANetworks/sagn-chl.git
